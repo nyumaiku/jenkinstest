@@ -17,4 +17,10 @@
                     <url>http://127.0.0.1:8081/artifactory/libs-release/</url>
                 </repository>
     </repositories>
+    <distributionManagement>
+        <repository>
+            <id>repo.write</id>
+            <url>http://127.0.0.1:8081/artifactory/libs-release/</url>
+        </repository>
+    </distributionManagement>
 </project>
