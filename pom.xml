@@ -10,4 +10,11 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
+    <repositories>
+                <repository>
+                    <id>promnet-repository</id>
+                    <name>repositorio</name>
+                    <url>http://127.0.0.1:8081/artifactory/libs-release/</url>
+                </repository>
+    </repositories>
 </project>
