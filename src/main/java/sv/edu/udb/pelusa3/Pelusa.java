@@ -7,7 +7,7 @@ package sv.edu.udb.pelusa3;
 
 /**
  *
- * @author maiku
+ * @author maiku  prueba de pelusa
  */
 public class Pelusa {
     
