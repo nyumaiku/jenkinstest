@@ -19,8 +19,9 @@
     </repositories>
     <distributionManagement>
         <repository>
-            <id>repo.write</id>
-            <url>http://127.0.0.1:8081/artifactory/libs-release/</url>
-        </repository>
+        <id>central</id>
+        <name>promnet-maven-repository-releases</name>
+        <url>http://127.0.0.1:8081/artifactory/libs-release-local</url>
+    </repository>
     </distributionManagement>
 </project>
